@@ -1,0 +1,19 @@
+{
+	"name": "RoronaoZoro",
+	"symbol": "",
+	"image": "0.png",
+	"properties": {
+		"files": [
+			{
+				"uri": "0.png",
+				"type": "image/png"
+			}
+		],
+		"creators": [
+			{
+				"address": "8NLQZtHhFL6fuCCrhuwbgK2heoZqX9XS56uzfMQH8ypC",
+				"share": 100
+			}
+		]
+	}
+}

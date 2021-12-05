@@ -1,0 +1,19 @@
+{
+	"name": "MonkeyDLuffy",
+	"symbol": "",
+	"image": "1.png",
+	"properties": {
+		"files": [
+			{
+				"uri": "1.png",
+				"type": "image/png"
+			}
+		],
+		"creators": [
+			{
+				"address": "8NLQZtHhFL6fuCCrhuwbgK2heoZqX9XS56uzfMQH8ypC",
+				"share": 100
+			}
+		]
+	}
+}

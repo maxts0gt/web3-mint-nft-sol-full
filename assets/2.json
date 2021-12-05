@@ -1,0 +1,19 @@
+{
+	"name": "VinsmokeSanji",
+	"symbol": "",
+	"image": "2.png",
+	"properties": {
+		"files": [
+			{
+				"uri": "2.png",
+				"type": "image/png"
+			}
+		],
+		"creators": [
+			{
+				"address": "8NLQZtHhFL6fuCCrhuwbgK2heoZqX9XS56uzfMQH8ypC",
+				"share": 100
+			}
+		]
+	}
+}
